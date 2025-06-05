@@ -31,7 +31,7 @@
 /* --- */
 
 .active-window-widget {
-	margin-right: 16px;
+	margin-right: 24px;
 }
 
 .active-window-widget .widget-container .label {
@@ -355,7 +355,7 @@
 /* --- */
 
 .systray {
-	margin-left: 16px;
+	margin-left: 40px;
 }
 
 .systray .unpinned-visibility-btn {
