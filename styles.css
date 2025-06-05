@@ -368,12 +368,11 @@
 }
 
 .systray .unpinned-visibility-btn:hover, .systray .unpinned-visibility-btn:checked:hover {
-	border-color: var(--lavender);
+	color: var(--finn);
 }
 
 .systray .unpinned-visibility-btn:checked {
-	color: var(--text);
-	border-color: var(--mauve);
+	color: var(--lavender);
 }
 
 .systray .unpinned-container {
