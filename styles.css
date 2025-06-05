@@ -124,7 +124,7 @@
 }
 
 .media-menu .title, .media-menu .artist {
-	margin-left: 10px;
+	margin-left: 16px;
 }
 
 .media-menu .btn {
@@ -135,7 +135,7 @@
 }
 
 .media-menu .btn.prev {
-	margin-left: 13px;
+	margin-left: 20px;
 }
 
 .media-menu .btn:hover {
